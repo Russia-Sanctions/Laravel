@@ -1,0 +1,19 @@
+{
+    "name": "russia-sanctions/laravel",
+    "type": "library",
+    "require": {
+        "russia-sanctions/base": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RussiaSanctions\\Laravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Emily Shepherd",
+            "email": "emily@redcoat.dev"
+        }
+    ]
+}
